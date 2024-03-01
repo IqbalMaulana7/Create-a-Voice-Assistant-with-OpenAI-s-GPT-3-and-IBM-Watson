@@ -21,15 +21,6 @@ By the end of the course, you will have a deep understanding of voice assistants
 - Combine all of the above components to create a functioning assistant that can take voice input and provide a spoken response
 - (Optional) Understand how to deploy the assistant to a web server for use by a wider audience
 
-## Prerequisites 🛠️
-- Linux/MacOS x86_64 [Skills Network Lab environment provides this]
-- Caikit (v0.9.2) [We will install this]
-- Python (v3.8+) [Skills Network Lab environment has python3.8 pre-installed]
-- pip (v23.0+) [As first task in the project we will upgrade pip to latest]
-
-## Procedure 📑
-Complete the following tasks to configure the Caikit runtime and the AI model, and then test them from a client application:
-
 - Create the project
 - Create the data model specification
 - Create the model wrapper
